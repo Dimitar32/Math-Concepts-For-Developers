@@ -1,0 +1,43 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+.venv/
+.virtual_documents/
+anaconda_projects/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/config files
+*.env
+*.ini
+*.log
+
+# Notebook output cache
+*.nbconvert.ipynb
+
+# General backups
+*.bak
+*.swp
+~$*
+
+# OneDrive sync markers (if needed)
+*.tmp
+*.~tmp
