@@ -2,3 +2,5 @@
 .virtual_documents/
 *.log
 *.tmp
+.ipynb_checkpoints/
+anaconda_projects/
